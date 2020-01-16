@@ -1,5 +1,5 @@
-import stackmodule
-from stackmodule import stackTools
+import stackModule
+from stackModule import stackTools
 from random import randint as rand
 
 stackOptions = {
