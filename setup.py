@@ -8,7 +8,7 @@ setuptools.setup(
     name="stack-module",
 
     # Version number (initial):
-    version="0.1.0",
+    version="0.1.1",
 
     # Application author details:
     author="Brendan T D. Jennings",
