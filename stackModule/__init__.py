@@ -9,4 +9,4 @@ __license__ = 'BSD'
 name = "stack-module"
 
 #Classes
-from .core import stackTools
+import stackTools
